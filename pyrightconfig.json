@@ -1,0 +1,11 @@
+{
+  "include": ["app", "tests"],
+  "exclude": [
+    "**/__pycache__",
+    ".venv",
+    "alembic"
+  ],
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "none",
+  "reportMissingTypeStubs": "none"
+}
